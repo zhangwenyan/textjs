@@ -1,0 +1,7 @@
+.x-autowidth-table .x-grid-item{
+	width:100%!important
+}
+.x-mask{
+	background-color: black;
+	opacity:0.3;
+}
